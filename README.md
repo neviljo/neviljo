@@ -1,7 +1,7 @@
 <h2 align="center">👋Nevil Joyice</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developement;AI+workflows;Deploying+apps+with+scalability+reliabiliy;Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developement;AI+workflows;Automation;Growth" alt="Typing SVG" />
 </div>
 
 ###
@@ -68,9 +68,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-
-###
